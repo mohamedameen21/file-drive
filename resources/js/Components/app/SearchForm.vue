@@ -3,7 +3,9 @@
 </script>
 
 <template>
-  <div>Search</div>
+  <form action=""  class="">
+
+  </form>
 </template>
 
 <style scoped>
